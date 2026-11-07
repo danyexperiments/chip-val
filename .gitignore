@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache & artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Pytest cache & generated reports
+.pytest_cache/
+reports/
+
+# macOS system files
+.DS_Store
